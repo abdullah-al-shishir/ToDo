@@ -1,0 +1,21 @@
+.todo-container {
+  width: 550px;
+}
+input {
+  width: 400px;
+}
+.tasksList li {
+  width: 473px;
+}
+.taskAddBtn {
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 7px;
+  height: 41px;
+  width: 92px;
+  padding-left: 12px;
+  transition: all 0.2s;
+  box-shadow: 10px 10px 20px #a3b1c6, -10px -10px 20px #ffffff;
+}
